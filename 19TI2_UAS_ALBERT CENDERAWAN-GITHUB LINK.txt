@@ -5,10 +5,10 @@ Anggota:
 2. Hubert Daniel Rusli
 
 GitHub Repo HTTPS Link (@AlbertCenderawan):
-
+https://github.com/AlbertCenderawan/19TI2_UAS_GITHUB_ALBERTCENDERAWAN_HUBERTDANIELRUSLI.git
 
 GitHub Website URL Link (@AlbertCenderawan):
-
+https://github.com/AlbertCenderawan/19TI2_UAS_GITHUB_ALBERTCENDERAWAN_HUBERTDANIELRUSLI/tree/MainBranch
 
 GitHub Repo HTTPS Link (@HubertDanielRusli):
 https://github.com/HubertDanielRusli/19TI2_UAS_ALBERTCENDRAWAN_HUBERTDANIELRUSLI.git
